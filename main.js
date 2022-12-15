@@ -1,5 +1,5 @@
-import BotaoConclui from "./Componentes/concluiTarefa"
-import BotaoDeleta from "./Componentes/deletaTarefa"
+import BotaoConclui from "./Componentes/concluiTarefa.js"
+import BotaoDeleta from "./Componentes/deletaTarefa.js"
 
 const criarTarefa = (evento) => {
 
